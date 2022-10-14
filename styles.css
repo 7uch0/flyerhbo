@@ -1,0 +1,174 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.elemento{
+    width: 899px;
+}
+h1{
+   
+    font-size: 46px;
+}
+h3{
+    text-align: center;
+    
+}
+.fondo{
+    background-color: rgb(236, 224, 238);
+    width: 899px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contenedor{
+    
+    width: 899px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+main div ol li{
+    float:left;
+    margin: 10px;
+       
+}
+.violeta{
+    color: blueviolet;
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.violeta:hover{
+    color: white;
+}
+.blanco{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.blanco:hover{
+    color: blueviolet;
+}
+.bordes1{
+    border-radius: 60px;
+    font-size: xx-large;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: blueviolet;
+    transition: background-color, 0.6s
+}
+.bordes1:hover{
+    background-color: white;
+    border:blueviolet 1px solid;
+    transition: background-color, 0.4s
+}
+.bordes2{
+    border-radius: 60px;
+    font-size: xx-large;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    border: blueviolet 1px solid;
+    transition: background-color, 0.5s
+}
+.bordes2:hover{
+    background-color: blueviolet;
+    transition: background-color, 0.5s
+}
+.uno{
+    background-image: url(images/1.png);
+    background-repeat: no-repeat;
+    
+}
+.dos{
+    background-image: url(images/2.png);
+    background-repeat: no-repeat;
+}
+.tres{
+    background-image: url(images/3.png);
+    background-repeat: no-repeat;
+}
+li{
+    list-style: none;
+}
+
+
+.textos{
+    font-size: 25px;
+    
+}
+.textos2{
+    font-size: 20px;
+    margin-right: 300px;
+    padding-left:10px;
+    
+    
+}
+div ol li img{
+    width: 50px;
+    float: left;
+    margin-left: 280px;
+    
+    
+}
+
+
+div ol li h2{
+    font-size: 30px;
+    text-align:start;
+    padding-left: 10px;
+    
+}
+div ol li p{
+    text-align: start;   
+}
+footer div a img{
+    width: 60px;
+    margin: 5px;
+    margin-top:20px
+}
+footer div a img:hover{
+    width: 5%;
+}
+footer div a{
+    text-decoration: none;
+    color: black;
+}
+footer div ol{
+    /* border: 1px black solid; */
+    margin-left: 20%;
+
+}
+footer div ol li{
+    float: left;
+    /* border: 1px black solid; */
+    margin: 15px;
+}
+footer div p{
+    font-size: 8px;
+    /* border: 1px black solid; */
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.linea{
+    margin: auto;
+    margin-top: 30px;
+    width: 899px;
+}
+.logo{
+    width: 300px;
+    
+    margin-top: 30px;  
+}
+
+
+
